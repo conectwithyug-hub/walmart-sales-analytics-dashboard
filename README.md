@@ -1,6 +1,12 @@
 
 # 🛒 Walmart Sales Analytics Dashboard
 
+## 📊 Dashboard Preview
+
+![Walmart Dashboard](dashboard-overview.png)
+
+![Sales Analysis](sales-analysis.png)
+
 ## 📌 Project Overview
 
 This project presents an interactive Power BI dashboard built to analyze Walmart sales performance and uncover meaningful business insights.
